@@ -17,7 +17,7 @@ wait_time = 1
 # 保存先指定
 # ***************************************
 search_name = sys.argv[1]
-savedir = "./" + animalname
+savedir = "./" + search_name
 
 # ***************************************
 # 設定
